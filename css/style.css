@@ -1,0 +1,75 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    margin-bottom: 60px;
+}
+.bg-color{
+    background-color: #fceae8;
+    border-radius: 10px;
+}
+.carousel-item{
+    padding: 20px 40px;
+}
+.carousel-item h3{
+    color: #ff136f;
+}
+button{
+    background-image: linear-gradient(to bottom, #ff589b 0%, #ff136f 100%);
+    color: #fff;
+}
+.cat-1, .cat-2, .cat-3{
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+.cat-1{
+    background-color: orange;
+}
+.cat-2{
+    background-color: orchid;
+}
+.cat-3{
+    background-color: blue;
+}
+.categories h2{
+    color: #fff;
+}
+.categories img{
+    width: 100px;
+}
+.card{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px grey;
+}
+.card-footer{
+    background-color: #fff;
+    border-top: none;
+}
+#contact{
+    height: 300px;
+}
+#contact h5{
+    color: grey;
+}
+footer{
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
